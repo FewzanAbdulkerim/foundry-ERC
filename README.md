@@ -64,4 +64,11 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-# foundry-ERC
+
+## Quickstart
+
+```
+git clone https://github.com/FewzanAbdulkerim/foundry_ERC.git
+cd foundry_ERC
+forge build
+```
